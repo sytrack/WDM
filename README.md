@@ -43,40 +43,38 @@
 <br/>
 
 ## 6. 페이지 설명<br/>
-박상욱 구현페이지🟢<br/>
-김보애 구현페이지🟣<br/>
-박선영 구현페이지🔴<br/>
+구현페이지🔴<br/>
 <br/>
-**main.html**🟢🟣🔴<br/>
+**main.html**🔴<br/>
 > **사이트 메인 페이지**<br/>
 > - 로그인, 회원가입 및 상위 4개 맛집 조회 가능<br/>
 > - 새로운 맛집 등록하기 가능<br/>
 > - 관리자 페이지, 마이페이지, 문의하기, 공지사항 이동 가능<br/>
 
-**adminCheckPage.html**🟣<br/>
+**adminCheckPage.html**<br/>
 > **관리자 차트 페이지**<br/>
 > - 관리자가 원하는 데이터를 차트로 구현<br/>
 
-**adminQnAList.html**🟣<br/>
+**adminQnAList.html**<br/>
 > **QnA 리스트 페이지**<br/>
 > - 유저가 남긴 질문 리스트 전체 조회<br/>
 > - 제목을 누르면 유저의 QnA 화면으로 이동<br/>
 
-**adminWDMList.html**🟣<br/>
+**adminWDMList.html**<br/>
 > **맛집 리스트 전체 조회 페이지**<br/>
 
-**join.html**🟢<br/>
+**join.html**<br/>
 >**회원가입 페이지**<br/>
 > - 유효성 검사를 통한 아이디, 닉네임 중복 체크 기능 구현 <br/>
 > - 비밀번호 생성 조건 구현 <br/>
 > - 이메일 인증 기능 구현 <br/>
 
-**login.html**🟢<br/>
+**login.html**<br/>
 >**로그인 페이지**<br/>
 > - 아이디, 비밀번호 미일치 시 로그인 불가능 기능 구현<br/>
 > - 아이디, 비밀번호 찾기 페이지 이동 가능<br/>
 
-**findMember**🟢<br/>
+**findMember**<br/>
 >**changePwdOk.html**<br/>
 > 비밀번호 변경 팝업 페이지<br/>
 >**findIdForm.html**<br/>
@@ -88,7 +86,7 @@
 >**findPwdResult.html**<br/>
 > 비밀번호 재설정 페이지<br/>
 
-**myUpdateInfo.html**🟢<br/>
+**myUpdateInfo.html**<br/>
 > **회원정보 수정 페이지**<br/>
 > - 기존 가입했던 정보를 불러오고 변경하지 않을 경우 기존 이메일, 닉네임 등 정보는 그대로 유지<br/>
 
@@ -101,12 +99,12 @@
 > - 회원이 작성한 글 상세보기<br/>
 > - 해당 페이지에서는 자신이 작성한 게시글을 수정할 수 있다.<br/>
 
-**QnA.html**🟣<br/>
+**QnA.html**<br/>
 > **QnA 페이지**<br/>
 > - 유저 본인의 질문만 조회 가능<br/>
 > - 관리자는 유저의 질문에 대댓글로 답변 가능<br/>
 
-**WDMComment.html**🟣<br/>
+**WDMComment.html**<br/>
 > **댓글 페이지**<br/>
 > - WDMDetail화면의 댓글 <br/>
 > - 댓글 리스트 페이징 처리 <br/>
@@ -121,7 +119,7 @@
 > - 내가 직접 맛집 소개하기<br/>
 > - 중복된 식당명 없는지 유효성 확인<br/>
 
-**WDMList.html**🟣<br/>
+**WDMList.html**<br/>
 > **맛집리스트 조회 페이지**<br/>
 > - 동네 이름 or 메뉴를 검색해야 맛집 조회 화면으로 이동<br/>
 > - 맛집의 종류(한식,양식,중식 등등)별로 조회 가능<br/>
